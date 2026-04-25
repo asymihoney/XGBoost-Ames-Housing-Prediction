@@ -40,6 +40,7 @@ I evaluated the models based on **RMSE (Root Mean Squared Error)** to ensure lar
 
 ## File Structure
 * `app.py`: The Streamlit web application code.
+* `dataset`: The raw dataset folder for this project.
 * `notebooks/eda.ipynb`: Visualize distributions, correlations, and missing values.
 * `notebooks/train_model.ipynb`: Script for modular cleaning, feature engineering logic, model comparison and serialization.
 * `models/`: Saved `.pkl` files (XGBoost model and feature list).
