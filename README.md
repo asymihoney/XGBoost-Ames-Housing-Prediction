@@ -1,3 +1,5 @@
+![Python Version](https://img.shields.io/badge/python-3.11-blue.svg)
+
 # Ames Housing Price Predictor
 
 A machine learning project that predicts residential home prices in Ames, Iowa, using a highly optimized XGBoost regression model. This project demonstrates the full ML lifecycle: EDA, Data Cleaning, Feature Engineering, Model Benchmarking, and Deployment.
@@ -33,7 +35,7 @@ I evaluated the models based on **RMSE (Root Mean Squared Error)** to ensure lar
 ---
 
 ## Tech Stack
-* **Language:** Python 3.x
+* **Language:** Python 3.11
 * **Libraries:** Scikit-Learn, XGBoost, Pandas, NumPy
 * **Deployment:** Streamlit & GitHub
 * **Data Source:** [Ames Housing Dataset (Kaggle)](https://www.kaggle.com/datasets/prevek18/ames-housing-dataset/data)
@@ -53,7 +55,7 @@ I evaluated the models based on **RMSE (Root Mean Squared Error)** to ensure lar
 ## How to Run Locally
 1. Clone the repo:
    ```bash
-   git clone [https://github.com/your-username/ames-housing-predictor.git](https://github.com/asymihoney/ames-housing-predictor.git)
+   git clone [https://github.com/asymihoney/ames-housing-predictor.git](https://github.com/asymihoney/ames-housing-predictor.git)
 
 2. Install dependencies:
    ```bash
