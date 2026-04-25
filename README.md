@@ -2,7 +2,9 @@
 
 A machine learning project that predicts residential home prices in Ames, Iowa, using a highly optimized XGBoost regression model. This project demonstrates the full ML lifecycle: EDA, Data Cleaning, Feature Engineering, Model Benchmarking, and Deployment.
 
-**[Live Demo Link Here]**
+![App Screenshot](img/screenshot.png)
+
+**[View Live Demo](https://xgboost-ames-housing-prediction-qmquwaycvmjnh9cfxmhejy.streamlit.app/)**
 
 ---
 
