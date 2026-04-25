@@ -13,6 +13,9 @@ A machine learning project that predicts residential home prices in Ames, Iowa, 
 ## Project Overview
 The goal of this project was to move beyond simple "notebook" modeling and create a functional tool. By comparing different algorithms, I identified that gradient boosting offered the most robust handling of the dataset's complex features.
 
+### Limitations
+While this model is trained on historical data (2006-2010) and is not suitable for current market valuations, the architecture demonstrates a production-ready approach to regression.
+
 ### Key Features:
 * **Automated Pipeline:** Custom cleaning script to handle 80+ original features.
 * **Feature Engineering:** Combined basement and floor areas into a `TotalSF` metric for better predictive power.
