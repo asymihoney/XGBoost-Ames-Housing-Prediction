@@ -58,7 +58,7 @@ I evaluated the models based on **RMSE (Root Mean Squared Error)** to ensure lar
 ## How to Run Locally
 1. Clone the repo:
    ```bash
-   git clone git clone https://github.com/asymihoney/XGBoost-Ames-Housing-Prediction.git
+   git clone https://github.com/asymihoney/XGBoost-Ames-Housing-Prediction.git
 
 2. Install dependencies:
    ```bash
